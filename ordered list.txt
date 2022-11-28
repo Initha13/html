@@ -1,0 +1,13 @@
+<html>
+<head>
+<title>ordered list</title>
+</head>
+<body>
+<h1>My friend list</h1>
+<ol>
+<li>anu</li>
+<li>rose</li>
+<li>aji</li>
+</ol>
+</body>
+</html>
